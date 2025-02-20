@@ -1,0 +1,37 @@
+body { 
+    font-family: 'Georgia', serif; 
+    color: white; 
+    background-color: black; 
+    width: 600px; 
+    line-height: 1.6; 
+    padding: 20px;
+}
+.title { 
+    text-align: center; 
+    font-size: 22px; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+    color: #FFD700; 
+    margin-bottom: 20px;
+}
+.rift { 
+    color: #9400D3; /* Deep violet */
+    font-weight: bold;
+}
+.highlight { 
+    color: #FFD700; /* Gold */
+    font-weight: bold;
+}
+.warning {
+    color: #FF4500; /* Fiery red */
+    font-style: italic;
+}
+.fade { 
+    color: #A9A9A9; /* Faded grey */
+    font-style: italic;
+}
+.dialogue {
+    color: #00BFFF; /* Cyan for speech */
+    font-weight: bold;
+    font-style: italic;
+}

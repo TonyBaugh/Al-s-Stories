@@ -1,0 +1,119 @@
+<html>
+<head>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            color: white;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+            flex-direction: column;
+            background: radial-gradient(circle at center, rgba(30, 10, 60, 0.9), black 80%);
+            position: relative;
+        }
+
+        .title {
+            font-size: 60px;
+            font-weight: bold;
+            text-transform: uppercase;
+            color: #FFD700; /* Gold */
+            letter-spacing: 8px;
+            margin-bottom: 20px;
+            text-shadow: 4px 4px 10px rgba(255, 215, 0, 0.8), 0 0 15px #9400D3;
+        }
+
+        .rift-highlight {
+            color: #9400D3; /* Deep Violet */
+            font-weight: bold;
+            text-shadow: 2px 2px 12px rgba(148, 0, 211, 0.9);
+        }
+
+        .tagline {
+            font-size: 26px;
+            font-style: italic;
+            color: #A9A9A9; /* Faded Grey */
+            margin-bottom: 50px;
+            text-shadow: 2px 2px 8px rgba(169, 169, 169, 0.7);
+        }
+
+        .continue {
+            font-size: 24px;
+            font-weight: bold;
+            color: #00BFFF; /* Cyan */
+            border: 2px solid #00BFFF;
+            padding: 10px 20px;
+            border-radius: 8px;
+            display: inline-block;
+            cursor: pointer;
+            text-shadow: 2px 2px 10px rgba(0, 191, 255, 0.9);
+            transition: all 0.2s ease-in-out;
+            margin-bottom: 50px;
+        }
+
+        .continue:hover {
+            background-color: #00BFFF;
+            color: black;
+            text-shadow: none;
+        }
+
+        .red-text {
+            color: #B22222; /* Dark Red */
+            font-weight: bold;
+        }
+
+
+        /* Rift Effect (Top) */
+        .rift-effect-top {
+            position: absolute;
+            top: 10%;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 120px;
+            font-weight: bold;
+            color: rgba(255, 215, 0, 0.1);
+            text-shadow: 0px 0px 80px rgba(148, 0, 211, 0.5);
+            z-index: -1;
+        }
+
+        /* Mirrored Rift Effect (Bottom) */
+        .rift-effect-bottom {
+            position: absolute;
+            bottom: 8%;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 120px;
+            font-weight: bold;
+            color: rgba(255, 215, 0, 0.1);
+            text-shadow: 0px 0px 80px rgba(148, 0, 211, 0.5);
+            z-index: -1;
+            text-align: center;
+        }
+
+        .rift-effect-bottom span {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Top Opaque Title -->
+    <div class="rift-effect-top">ECHOES OF THE RIFT</div>
+
+    <!-- Main Title -->
+    <div class="title">ECHOES <span class="rift-highlight">OF</span> THE RIFT</div>
+    
+    <!-- Tagline -->
+    <div class="tagline">Reality shifts, <span class="red-text">echoes</span> remain.</div>
+
+    <!-- Continue Button -->
+    <div class="continue">Click Continue to Begin...</div>
+
+    <!-- Bottom Opaque Title (Reversed) -->
+    <div class="rift-effect-bottom">
+        <span>RIFT</span><br>
+        <span>THE OF ECHOES</span>
+    </div>
+</body>
+</html>

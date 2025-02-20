@@ -1,0 +1,307 @@
+{
+    "who_are_you.html" : {
+        "questions": "who_are_you_questions.html",
+        "choices": {
+            "1": "1.1_accept_hero_role.html",
+            "2": "1.2_accept_villain_role.html",
+            "3": "1.3_deny_both_labels.html",
+            "4": "1.4_refuse_to_choose.html",
+            "5": "1.5_leave_world.html"
+        }
+    },
+    
+    "1.1_accept_hero_role.html" : {
+        "questions" : "1.1_hero_role_questions.html",
+        "choices": {
+            "1" : "2.1_prepare_for_war_from_1.1.html",
+            "2" : "2.2_seek_the_scholars_from_1.1.html",
+            "3" : "2.3_reject_the_council.html"
+            
+        }
+    },
+
+    "1.2_accept_villain_role.html" : {
+        "questions" : "1.2_accept_villain_role_questions.html",
+        "choices": {
+            "1" : "2.1_prepare_for_war_from_1.2.html",
+            "2" : "2.4_subjugate_rifts_power_from_1.2.html",
+            "3" : "2.5_destroy_rift_immediately_from_1.2.html"
+        }
+    },
+
+    "1.3_deny_both_labels.html" : {
+        "questions" : "1.3_deny_both_labels_questions.html",
+        "choices": {
+            "1" : "2.2_investigate_the_rift_from_1.3.html",
+            "2" : "2.3_seek_refuge_from_1.3.html",
+            "3" : "2.6_follow_the_wanderer_from_1.3.html"
+        }
+    },
+
+    "1.4_refuse_to_choose.html" : {
+        "questions" : "1.4_refuse_to_choose_questions.html",
+        "choices": {
+            "1" : "2.3_seek_refuge_from_1.4.html",
+            "2" : "2.6_follow_the_wanderer_from_1.4.html",
+            "3" : "2.7_confront_wanderer_from_1.4.html"
+        }
+    },
+
+    "1.5_leave_world.html" : {
+        "questions" : "1.5_leave_the_world_questions.html",
+        "choices": {
+            "1" : "2.6_follow_the_wanderer_from_1.5.html",
+            "2" : "2.7_confront_wanderer_from_1.5.html",
+            "3" : "2.8_turn_back_from_1.5.html"
+        }
+    },
+
+    "2.1_prepare_for_war_from_1.1.html" : {
+        "questions" : "2.1_prepare_for_war_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war.html",
+            "2" : "3.2_search_for_allies.html",
+            "3" : "3.3_seal_the_rift.html"            
+        }
+    },
+
+    "2.2_seek_the_scholars_from_1.1.html" : {
+        "questions" : "2.2_seek_the_scholars_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.2_search_for_allies.html",
+            "2" : "3.3_seal_the_rift.html",
+            "3" : "3.4_seek_knowledge.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.1.html" : {
+        "questions" : "2.3_seek_refuge_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.2_search_for_allies.html",
+            "2" : "3.3_seal_the_rift.html",
+            "3" : "3.4_seek_knowledge.html"            
+        }
+    },
+
+    "2.1_prepare_for_war_from_1.2.html" : {
+        "questions" : "2.1_prepare_for_war_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war.html",
+            "2" : "3.2_search_for_allies.html",
+            "3" : "3.4_seek_knowledge.html"            
+        }
+    },
+
+    "2.4_subjugate_rifts_power_from_1.2.html" : {
+        "questions" : "2.4_subjugate_rifts_power_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war.html",
+            "2" : "3.5_risk_contact_with_rift_core.html",
+            "3" : "3.6_accept_rifts_offer.html"            
+        }
+    },
+
+    "2.5_destroy_rift_immediately_from_1.2.html" : {
+        "questions" : "2.5_destroy_rift_immediately_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.5_risk_contact_with_rift_core.html",
+            "2" : "3.6_accept_rifts_offer.html",
+            "3" : "3.7_escape_through_rift.html"            
+        }
+    },
+
+    "2.2_investigate_the_rift_from_1.3.html" : {
+        "questions" : "2.2_investigate_the_rift_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.2_search_for_allies.html",
+            "2" : "3.3_seal_the_rift.html",
+            "3" : "3.4_seek_knowledge.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.3.html" : {
+        "questions" : "2.3_seek_refuge_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war.html",
+            "2" : "3.5_risk_contact_with_rift_core.html",
+            "3" : "3.6_accept_rifts_offer.html"            
+        }
+    },
+
+    "2.6_follow_the_wanderer_from_1.3.html" : {
+        "questions" : "2.6_follow_the_wanderer_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.4_seek_knowledge.html",
+            "2" : "3.6_accept_rifts_offer.html",
+            "3" : "3.8_refuse_the_rift.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.4.html" : {
+        "questions" : "2.3_seek_refuge_from_1.4_questions.html",
+        "choices": {
+            "1" : "3.3_seal_the_rift.html",
+            "2" : "3.4_seek_knowledge.html",
+            "3" : "3.5_risk_contact_with_rift_core.html"            
+        }
+    },
+
+    "2.6_follow_the_wanderer_from_1.4.html" : {
+        "questions" : "2.6_follow_the_wanderer_from_1.4_questions.html",
+        "choices": {
+            "1" : "3.4_seek_knowledge.html",
+            "2" : "3.6_accept_rifts_offer.html",
+            "3" : "3.8_refuse_the_rift.html"            
+        }
+    },
+
+    "2.7_confront_wanderer_from_1.4.html" : {
+        "questions" : "2.7_confront_wanderer_from_1.4.html",
+        "choices": {
+            "1" : "3.6_accept_rifts_offer.html",
+            "2" : "3.7_escape_through_rift.html",
+            "3" : "3.8_refuse_the_rift.html"            
+        }
+    },
+
+    "2.6_follow_the_wanderer_from_1.5.html" : {
+        "questions" : "2.6_follow_the_wanderer_from_1.5_questions.html",
+        "choices": {
+            "1" : "3.4_seek_knowledge.html",
+            "2" : "3.6_accept_rifts_offer.html",
+            "3" : "3.8_refuse_the_rift.html"            
+        }
+    },
+
+    "2.7_confront_wanderer_from_1.5.html" : {
+        "questions" : "2.7_confront_wanderer_from_1.5_questions.html",
+        "choices": {
+            "1" : "3.6_accept_rifts_offer.html",
+            "2" : "3.7_escape_through_rift.html",
+            "3" : "3.8_refuse_the_rift.html"            
+        }
+    },
+
+    "2.8_turn_back_from_1.5.html" : {
+        "questions" : "2.8_turn_back_from_1.5_questions.html",
+        "choices": {
+            "1" : "3.7_escape_through_rift.html",
+            "2" : "3.8_refuse_the_rift.html",
+            "3" : "3.9_surrender_to_the_void.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.1_command_the_riftborn.html",
+            "2" : "4.2_resist_rifts_pull.html",
+            "3" : "4.3_question_the_rifts_nature.html"            
+        }
+    },
+
+    "3.2_search_for_allies.html" : {
+        "questions" : "3.2_search_for_allies_questions.html",
+        "choices": {
+            "1" : "4.2_command_the_riftborn.html",
+            "2" : "4.3_question_the_rifts_nature.html",
+            "3" : "4.4_merge_with_rift.html"            
+        }
+    },
+
+    "3.3_seal_the_rift.html" : {
+        "questions" : "3.3_seal_the_rift_questions.html",
+        "choices": {
+            "1" : "4.3_question_the_rifts_nature.html",
+            "2" : "4.4_merge_with_rift.html",
+            "3" : "4.5_accept_rifts_bargain.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.4_merge_with_rift.html",
+            "2" : "4.5_accept_rifts_bargain.html",
+            "3" : "4.6_venture_beyond_rift.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.5_accept_rifts_bargain.html",
+            "2" : "4.6_venture_beyond_rift.html",
+            "3" : "4.7_question_rifts_nature.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.6_venture_beyond_rift.html",
+            "2" : "4.7_resist_rifts_pull.html",
+            "3" : "4.8_question_rifts_nature.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.7_command_the_riftborn.html",
+            "2" : "4.8_resist_rifts_pull.html",
+            "3" : "4.9_question_rifts_nature.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.8_command_the_riftborn.html",
+            "2" : "4.9_resist_rifts_pull.html",
+            "3" : "4.10_question_rifts_nature.html"            
+        }
+    },
+
+    "3.1_lead_the_war.html" : {
+        "questions" : "3.1_lead_the_war_questions.html",
+        "choices": {
+            "1" : "4.9_command_the_riftborn.html",
+            "2" : "4.10_resist_rifts_pull.html",
+            "3" : "4.11_question_rifts_nature.html"            
+        }
+    },
+
+    "4.1_command_the_riftborn.html" : {
+        "questions" : "4.1_command_the_riftborn_questions.html",
+        "choices": {
+            "1" : "5.1_control_the_rift_from_4.1.html",
+            "2" : "5.2_destroy_rift_from_4.1.html",
+            "3" : "5.3_sacrifice_yourself_from_4.1.html"            
+        }
+    },
+
+    "4.2_resist_rifts_pull.html" : {
+        "questions" : "4.2_resist_rifts_pull_questions.html",
+        "choices": {
+            "1" : "5.2_destroy_the_rift_from_4.2.html",
+            "2" : "5.3_seal_the_rift_restore_from_4.2.html"         
+        }
+    },
+
+    "5.1_control_the_rift_from_4.1.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.2_destroy_the_rift_from_4.2.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    }
+}

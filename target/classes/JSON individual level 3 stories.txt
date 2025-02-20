@@ -1,0 +1,107 @@
+ "2.1_prepare_for_war_from_1.1.html" : {
+        "questions" : "2.1_prepare_for_war_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war_from_2.1.html",
+            "2" : "3.2_search_for_allies.html",
+            "3" : "3.3_seal_the_rift.html"            
+        }
+    },
+
+    "2.2_seek_the_scholars_from_1.1.html" : {
+        "questions" : "2.2_seek_the_scholars_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.2_search_for_allies.html",
+            "2" : "3.3_seal_the_rift.html",
+            "3" : "3.4_seek_scholar_knowledge.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.1.html" : {
+        "questions" : "2.3_seek_refuge_from_1.1_questions.html",
+        "choices": {
+            "1" : "3.2_search_for_allies_from_1.1.html",
+            "2" : "3.3_seal_the_rift_from_1.1.html",
+            "3" : "3.4_seek_scholar_knowledge_from_1.1.html"            
+        }
+    },
+
+    "2.1_prepare_for_war_from_1.2.html" : {
+        "questions" : "2.1_prepare_for_war_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.1_lead_the_war_from_1.2.html",
+            "2" : "3.2_search_for_allies_from_1.2.html",
+            "3" : "3.4_seek_scholar_knowledge_from_1.2.html"            
+        }
+    },
+
+    "2.4_subjugate_rifts_power_from_1.2.html" : {
+        "questions" : "2.4_subjugate_rifts_power_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.1_take_rifts_power_from_1.2.html",
+            "2" : "3.5_contact_rift_core_from_1.2.html",
+            "3" : "3.6_step_into_rift_from_1.2.html"            
+        }
+    },
+
+    "2.5_destroy_rift_immediately_from_1.2.html" : {
+        "questions" : "2.5_destroy_rift_immediately_from_1.2_questions.html",
+        "choices": {
+            "1" : "3.5_strike_rift_again_from_1.2.html",
+            "2" : "3.6_step_closer_1.2.html",
+            "3" : "3.7_retreat_from_rift_from_1.2.html"            
+        }
+    },
+
+    "2.2_investigate_the_rift_from_1.3.html" : {
+        "questions" : "2.2_investigate_the_rift_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.2_seek_answers_from_1.3.html",
+            "2" : "3.3_destroy_rift_from_1.3.html",
+            "3" : "3.4_step_into_rift_from_1.3.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.3.html" : {
+        "questions" : "2.3_seek_refuge_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.1_take_rifts_power_from_1.3.html",
+            "2" : "3.5_contact_rift_core_from_1.3.html",
+            "3" : "3.6_step_into_rift_from_1.3.html"            
+        }
+    },
+
+    "2.6_follow_the_wanderer_from_1.3.html" : {
+        "questions" : "2.6_follow_the_wanderer_from_1.3_questions.html",
+        "choices": {
+            "1" : "3.4_seek_the_truth_from_1.3.html",
+            "2" : "3.6_reach_for_rift_from_1.3.html",
+            "3" : "3.8_refuse_the_rift_from_1.3.html"            
+        }
+    },
+
+    "2.3_seek_refuge_from_1.4.html" : {
+        "questions" : "2.3_seek_refuge_from_1.4_questions.html",
+        "choices": {
+            "1" : "3.3_seal_the_rift_from_1.4.html",
+            "2" : "3.4_seek_knowledge_from_1.4.html",
+            "3" : "3.5_venture_into_unknown_from_1.4.html"            
+        }
+    },
+
+    "2.6_follow_the_wanderer_from_1.4.html" : {
+        "questions" : "2.6_follow_the_wanderer_from_1.4_questions.html",
+        "choices": {
+            "1" : "3.4_seek_the_scholars_from_1.4.html",
+            "2" : "3.6_step_toward_rift_from_1.4.html",
+            "3" : "3.8_reject_the_rift_from_1.4.html"            
+        }
+    },
+
+    "2.7_confront_wanderer_from_1.4.html" : {
+        "questions" : "2.7_confront_wanderer_from_1.4.html",
+        "choices": {
+            "1" : "3.6_step_toward_rift_2_from_1.4.html",
+            "2" : "3.7_escape_through_rift_from_1.4.html",
+            "3" : "3.8_deny_the_rift_from_1.4.html"            
+        }
+    },

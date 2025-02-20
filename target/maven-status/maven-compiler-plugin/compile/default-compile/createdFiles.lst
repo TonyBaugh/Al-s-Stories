@@ -1,11 +1,11 @@
 com\yogeegames\eotr\GameWindow.class
 com\yogeegames\eotr\InputHandler$1.class
 com\yogeegames\eotr\StoryBlockReader.class
-com\yogeegames\eotr\InputHandler$2.class
 com\yogeegames\eotr\StoryLoader.class
-com\yogeegames\eotr\InputHandler$3.class
 com\yogeegames\eotr\EoTR.class
 com\yogeegames\eotr\GameController.class
 com\yogeegames\eotr\InputHandler.class
+com\yogeegames\eotr\InputHandler$2.class
+com\yogeegames\eotr\InputHandler$3.class
 com\yogeegames\eotr\SplashScreen.class
 com\yogeegames\eotr\StoryMapLoader.class

@@ -218,8 +218,8 @@
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.4_seek_knowledge.html" : {
+        "questions" : "3.4_seek_knowledge_questions.html",
         "choices": {
             "1" : "4.4_merge_with_rift.html",
             "2" : "4.5_accept_rifts_bargain.html",
@@ -227,69 +227,141 @@
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.5_risk_contact_with_rift_core.html" : {
+        "questions" : "3.5_risk_contact_with_rift_core_questions.html",
         "choices": {
             "1" : "4.5_accept_rifts_bargain.html",
             "2" : "4.6_venture_beyond_rift.html",
-            "3" : "4.7_question_rifts_nature.html"            
+            "3" : "4.7_seek_absolute_understanding.html"            
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.6_accept_rifts_offer.html" : {
+        "questions" : "3.6_accept_rifts_offer_questions.html",
         "choices": {
             "1" : "4.6_venture_beyond_rift.html",
-            "2" : "4.7_resist_rifts_pull.html",
-            "3" : "4.8_question_rifts_nature.html"            
+            "2" : "4.7_seek_absolute_understanding.html",
+            "3" : "4.8_follow_rifts_path.html"            
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.7_escape_through_rift.html" : {
+        "questions" : "3.7_escape_through_rift_questions.html",
         "choices": {
-            "1" : "4.7_command_the_riftborn.html",
-            "2" : "4.8_resist_rifts_pull.html",
-            "3" : "4.9_question_rifts_nature.html"            
+            "1" : "4.7_seek_absolute_understanding.html",
+            "2" : "4.8_follow_rifts_path.html",
+            "3" : "4.9_step_into_rift.html"            
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.8_refuse_the_rift.html" : {
+        "questions" : "3.8_refuse_the_rift_questions.html",
         "choices": {
-            "1" : "4.8_command_the_riftborn.html",
-            "2" : "4.9_resist_rifts_pull.html",
-            "3" : "4.10_question_rifts_nature.html"            
+            "1" : "4.8_follow_rifts_path.html",
+            "2" : "4.9_step_into_rift.html",
+            "3" : "4.10_reject_rifts_power.html"            
         }
     },
 
-    "3.1_lead_the_war.html" : {
-        "questions" : "3.1_lead_the_war_questions.html",
+    "3.9_surrender_to_the_void.html" : {
+        "questions" : "3.9_surrender_to_the_void_questions.html",
         "choices": {
-            "1" : "4.9_command_the_riftborn.html",
-            "2" : "4.10_resist_rifts_pull.html",
-            "3" : "4.11_question_rifts_nature.html"            
+            "1" : "4.9_step_into_rift.html",
+            "2" : "4.10_reject_rifts_power.html",
+            "3" : "4.11_force_rift_to_choose.html"            
         }
     },
 
     "4.1_command_the_riftborn.html" : {
         "questions" : "4.1_command_the_riftborn_questions.html",
         "choices": {
-            "1" : "5.1_control_the_rift_from_4.1.html",
-            "2" : "5.2_destroy_rift_from_4.1.html",
-            "3" : "5.3_sacrifice_yourself_from_4.1.html"            
+            "1" : "5.1_domination_from_4.1.html",
+            "2" : "5.2_destruction_from_4.1.html",
+            "3" : "5.3_restoration_from_4.1.html"            
         }
     },
 
     "4.2_resist_rifts_pull.html" : {
         "questions" : "4.2_resist_rifts_pull_questions.html",
         "choices": {
-            "1" : "5.2_destroy_the_rift_from_4.2.html",
-            "2" : "5.3_seal_the_rift_restore_from_4.2.html"         
+            "1" : "5.2_destruction_from_4.2.html",
+            "2" : "5.4_restoration_from_4.2.html"         
         }
     },
 
-    "5.1_control_the_rift_from_4.1.html" : {
+    "4.3_question_the_rifts_nature.html" : {
+        "questions" : "4.3_question_the_rifts_nature_questions.html",
+        "choices": {
+            "1" : "5.3_restoration_from_4.3.html",
+            "2" : "5.5_transcendence_from_4.3.html"         
+        }
+    },
+
+    "4.4_merge_with_rift.html" : {
+        "questions" : "4.4_merge_with_rift_questions.html",
+        "choices": {
+            "1" : "5.1_destruction_from_4.4.html",
+            "2" : "5.5_transcendence_from_4.4.html"         
+        }
+    },
+
+    "4.5_accept_rifts_bargain.html" : {
+        "questions" : "4.5_accept_rifts_bargain_questions.html",
+        "choices": {
+            "1" : "5.3_restoration_from_4.5.html",
+            "2" : "5.6_the_rifts_ultimatum.html"         
+        }
+    },
+
+    "4.6_venture_beyond_rift.html" : {
+        "questions" : "4.2_resist_rifts_pull_questions.html",
+        "choices": {
+            "1" : "5.3_restoration_from_4.6.html",
+            "2" : "5.7_oblivion_from_4.6.html"         
+        }
+    },
+
+    "4.7_seek_absolute_understanding.html" : {
+        "questions" : "4.7_seek_absolute_understanding_questions.html",
+        "choices": {
+            "1" : "5.4_restoration_from_4.7.html",
+            "2" : "5.8_oblivion_from_4.7.html"         
+        }
+    },
+
+    "4.8_follow_rifts_path.html" : {
+        "questions" : "4.8_follow_rifts_path_questions.html",
+        "choices": {
+            "1" : "5.2_destruction_from_4.8.html",
+            "2" : "5.9_oblivion_from_4.8.html"         
+        }
+    },
+
+    "4.9_step_into_rift.html" : {
+        "questions" : "4.9_step_into_rift_questions.html",
+        "choices": {
+            "1" : "5.10_ascendance_from_4.9.html",
+            "2" : "5.1_domination_from_4.9.html"         
+        }
+    },
+
+    "4.10_reject_rifts_power.html" : {
+        "questions" : "4.10_reject_rifts_power_questions.html",
+        "choices": {
+            "1" : "5.2_destruction_from_4.10.html",
+            "2" : "5.4_restoration_from_4.10.html"         
+        }
+    },
+
+    "4.11_force_rift_to_choose.html" : {
+        "questions" : "4.11_force_rift_to_choose_questions.html",
+        "choices": {
+            "1" : "5.5_transcendence_from_4.11.html",
+            "2" : "5.11_oblivion_from_4.11.html"         
+        }
+    },
+
+    "5.1_domination_from_4.1.html" : {
         "questions" : null,
         "choices": {
             "1" : null,
@@ -297,11 +369,180 @@
         }
     },
 
-    "5.2_destroy_the_rift_from_4.2.html" : {
+    "5.1_domination_from_4.4.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.1_domination_from_4.9.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.2_destruction_from_4.1.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.2_destruction_from_4.2.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.2_destruction_from_4.8.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.2_destruction_from_4.10.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.3_restoration_from_4.1.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.3_restoration_from_4.3.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.3_restoration_from_4.5.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.3_restoration_from_4.6.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.4_restoration_from_4.2.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.4_restoration_from_4.7.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.4_restoration_from_4.10.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.5_transcendence_from_4.3.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.5_transcendence_from_4.4.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.5_transcendence_from_4.11.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.6_the_rifts_ultimatum.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.7_oblivion_from_4.6.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.8_oblivion_from_4.7.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.9_oblivion_from_4.8.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.10_ascendance_from_4.9.html" : {
+        "questions" : null,
+        "choices": {
+            "1" : null,
+            "2" : null         
+        }
+    },
+
+    "5.11_oblivion_from_4.11.html" : {
         "questions" : null,
         "choices": {
             "1" : null,
             "2" : null         
         }
     }
+
 }

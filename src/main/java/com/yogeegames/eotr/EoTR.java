@@ -11,7 +11,7 @@ package com.yogeegames.eotr;
 public class EoTR {
     // Globals to keep track of users path
     public static String previousStoryBlock = "";
-    public static String currentStoryBlock = "5.10_ascendance_from_4.9.html";
+    public static String currentStoryBlock = "5.8_oblivion_from_4.7.html";
 
     // Tracks how many choices are in the currentStoryBlock
     public static int currentNumberOfChoices;
